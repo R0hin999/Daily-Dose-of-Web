@@ -1,4 +1,5 @@
 # Daily-JavaScript-Vanilla-Javascript-Projects-
-This repository contains all the projects that i have created using Vanilla JavaScript
 
-1. Random Color Generator : https://r0hin999.github.io/Random-Color-Generator/
+
+1. Random Color Generator : A random color generator website which generates color in hex code eg.#fff with a small feature to copy the generated hex code.
+   Visit Here:  https://r0hin999.github.io/Random-Color-Generator/
